@@ -1,5 +1,5 @@
 {
-    "name": "aurora-launcher-app",
+    "name": "MineGashLauncher-app",
     "version": "0.0.4-rc.1",
     "description": "Launcher for Minecraft",
     "main": "build/main/index.js",
@@ -26,7 +26,7 @@
         "type": "git",
         "url": "git+https://github.com/AuroraTeam/Launcher.git"
     },
-    "author": "AuroraTeam",
+    "author": "MineGash",
     "contributors": [
         "JoCat (https://github.com/JoCat)"
     ],
